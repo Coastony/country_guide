@@ -108,3 +108,18 @@ body {
     height: 60px;
   }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .container {
+    max-width: 20rem;
+  }
+
+  .search-wrapper {
+    display: grid;
+    grid-template-columns: none;
+  }
+
+  .search-wrapper input {
+    height: 60px;
+  }
+}

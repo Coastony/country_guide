@@ -28,6 +28,7 @@ body {
   display: grid;
   grid-template-columns: 9fr 3fr;
   gap: 1.25rem;
+  width: 100%;
 }
 
 .search-wrapper button {
@@ -94,6 +95,17 @@ body {
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 768px) {
+  .search-wrapper {
+    display: grid;
+    grid-template-columns: none;
+  }
+
+  .search-wrapper input {
+    height: 60px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .search-wrapper {
     display: grid;
     grid-template-columns: none;

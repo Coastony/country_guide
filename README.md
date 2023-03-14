@@ -4,7 +4,7 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5`` ``CSS3`` ``JavaScript``
+- ``HTML5`` ``CSS3`` ``JavaScript`` ``API REST``
 
 <br>
 

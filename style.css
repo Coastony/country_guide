@@ -7,6 +7,8 @@
 
 body {
   background-color: #cfd0d1;
+  width: 100vw;
+  height: 100vh;
 }
 
 .container {
@@ -26,6 +28,7 @@ body {
   display: grid;
   grid-template-columns: 9fr 3fr;
   gap: 1.25rem;
+  width: 100%;
 }
 
 .search-wrapper button {

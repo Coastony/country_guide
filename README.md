@@ -5,6 +5,7 @@
  ## ✔️ Techniques and technologies used
 
 - ``HTML5`` ``CSS3`` ``JavaScript`` ``REST API``
+- ``REST API:`` https://restcountries.com/
 
 <br>
 

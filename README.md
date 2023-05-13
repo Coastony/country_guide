@@ -14,4 +14,4 @@
 </p>
 
 ## 📁 Project access
-You can access the project files by clicking [here](https://github.com/Coastony/fire_dog)
+You can access the project files by clicking [here](https://github.com/Coastony/country_guide)
